@@ -5,7 +5,7 @@ if(x=3){
     console.log("conditional works")
 }
 
-if (y='blue'){
+if (y=='blue'){
     console.log(true)
 }else{
     console.log(false)
